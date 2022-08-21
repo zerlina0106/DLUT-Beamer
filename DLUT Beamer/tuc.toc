@@ -1,0 +1,12 @@
+\babel@toc {english}{}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Problem Definition}{3}{0}{1}
+\beamer@sectionintoc {2}{Mathematical Formulation}{6}{0}{2}
+\beamer@subsectionintoc {2}{1}{Feature Representation}{6}{0}{2}
+\beamer@subsectionintoc {2}{2}{Fashion Websites \& Ground Truth}{10}{0}{2}
+\beamer@subsectionintoc {2}{3}{Bipartite Network and Co--occurrence Graph}{13}{0}{2}
+\beamer@subsectionintoc {2}{4}{Similarity Measure \& Nearest Neighbor Consensus}{17}{0}{2}
+\beamer@subsectionintoc {2}{5}{Aggregating Ranked Item Recommendations}{24}{0}{2}
+\beamer@sectionintoc {3}{Experimental Results}{29}{0}{3}
+\beamer@sectionintoc {4}{Future Work}{37}{0}{4}
+\beamer@sectionintoc {5}{References}{38}{0}{5}
